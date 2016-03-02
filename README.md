@@ -1,2 +1,2 @@
 # Grid
-A site for people looking to get web design work completed
+The Grid Writers
