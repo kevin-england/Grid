@@ -1,6 +1,53 @@
-/*This is the style guide CSS*/
+.color-one {
+  background-color: #7D30B9;
+  color: white;
+  font-size: 26px;
+  height: 200px;
+  text-align: center;
+  width: 200px;
+}
+
+.color-two {
+  background-color: #6E0ABB;
+  color: white;
+  font-size: 26px;
+  height: 200px;
+  text-align: center;
+  width: 200px;
+}
+
+.color-three {
+  background-color: #540790;
+  color: white;
+  font-size: 26px;
+  height: 200px;
+  text-align: center;
+  width: 200px;
+}
+
+.color-four {
+  background-color: #320257;
+  color: white;
+  font-size: 26px;
+  height: 200px;
+  text-align: center;
+  width: 200px;
+}
+
+.font-one {
+  font-family: 'Arimo', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.font-two {
+  font-family: 'Slabo 27px', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
 
 .header {
   font-size: 36px;
   text-align: center;
 }
+
