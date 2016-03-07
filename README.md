@@ -1,2 +1,2 @@
 # Grid
-The Grid Writers
+A site to learn about the fantasy world known as Orthia
