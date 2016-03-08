@@ -1,2 +1,2 @@
 # Grid
-A site to learn about the fantasy world known as Orthia
+A site to learn about and buy beer from the Grid Brewers
