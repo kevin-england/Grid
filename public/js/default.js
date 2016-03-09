@@ -11,3 +11,12 @@ $('a[href*="#"]:not([href="#"])').click(function() {
     }
   }
 });
+
+function dropdown() {
+  var menu = document.getElementById('toggle');
+  menu.addEventListener('click', function() {
+    var buttons = document.getElementById('dropdown');
+    buttons.style.display = 'block';
+  }, false);
+}
+
